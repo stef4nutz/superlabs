@@ -1,0 +1,39 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  display: flex;
+}
+.superlabsLogo {
+  position: relative;
+  margin-top: 2rem;
+}
+.superlabsLogo img {
+  width: 25rem;
+}
+.projectsContainer {
+  border: 2px solid #272A31;
+  border-radius: 10px;
+  max-width: 550px;
+  flex: 1;
+  overflow: hidden;
+}
+.projectsArticles {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  height: 500px;
+}
+.projectsArticle {
+  margin: 10px;
+}
+.projectsArticle img {
+  border-radius: 10px;
+  width: 10rem;
+}

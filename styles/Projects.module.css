@@ -1,0 +1,35 @@
+.container {
+    min-height: 35vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sharoLogo {
+    color: #fff;
+    margin-left: 10px;
+}
+.projectColors {
+    display: flex;
+}
+
+/* culori comunitati */
+.blueGamePrimary {
+    background: #1c1c21;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+.blueGameSecondary {
+    background: #17171b;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+.blueGameCuloare {
+    background: blue;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
