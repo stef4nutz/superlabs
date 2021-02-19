@@ -1,6 +1,4 @@
 # notice
-Portfolio website for my team, SuperLabs.
-<br />
-Still unfinished, soon private.
+DISCONTINUED since I lost totally interes into webdesign, now I do occasionally.
 # showcase
 <img src="https://quak.ovh/67gPFZb.png">
